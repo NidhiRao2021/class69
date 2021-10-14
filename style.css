@@ -1,0 +1,28 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_main_div img {
+    width: 100%;
+}
+
+.travel_main_div hr {
+    width: 230px;
+}
+
+.travel_main_div h5,
+.travel_main_div p {
+    margin-left: 20px;
+}
